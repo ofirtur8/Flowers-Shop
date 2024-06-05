@@ -1,4 +1,5 @@
-body {
-    background-color: palevioletred;
+html, body {
+    height: 100%;
+    background-image: linear-gradient(cyan, magenta);
     text-align: center;
 }
